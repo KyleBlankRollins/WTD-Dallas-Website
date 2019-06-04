@@ -1,0 +1,27 @@
+{
+    "name": "WritetheDocsDallas",
+    "version": "0.1.0",
+    "description": "A place for Write the Docs | Dallas to live on the internet.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KyleBlankRollins/WTD-Dallas-Website"
+    },
+    "keywords": [
+        "write the docs, documentation, meetups, dallas, fort worth, technical writing, content strategy"
+    ],
+    "author": "Kyle Rollins",
+    "license": "Mozilla Public License 2.0",
+    "bugs": {
+        "url": "https://github.com/KyleBlankRollins/WTD-Dallas-Website/issues"
+    },
+    "homepage": "https://github.com/KyleBlankRollins/WTD-Dallas-Website/blob/master/README.md",
+    "devDependencies": {
+        "autoprefixer": "^9.4.2",
+        "postcss-import": "^12.0.1",
+        "postcss-loader": "^3.0.0",
+        "tailwindcss": "^0.7.3"
+    },
+    "dependencies": {
+        "vuepress": "^0.14.11"
+    }
+}
